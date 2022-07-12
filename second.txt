@@ -5,3 +5,5 @@ This is the exersise
 2-->Add the file to git (cmd-->git add second.txt)
 
 3-->commit the file (cmd--> git commit -m "message to be displayed")
+
+Branching making a changes 
