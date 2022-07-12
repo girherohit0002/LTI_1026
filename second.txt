@@ -1,0 +1,5 @@
+This is the exersise
+
+1-->Create another file second.txt (cmd-->notepad second.txt)
+
+2-->commit the file (cmd--> git commit -m "message to be displayed")
