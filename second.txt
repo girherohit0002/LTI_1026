@@ -6,3 +6,6 @@ This is the exersise
 
 3-->commit the file (cmd--> git commit -m "message to be displayed")
 
+
+file is in branch 2
+
